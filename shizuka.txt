@@ -1,9 +1,7 @@
 aiohttp
-aiofiles
 aioshutil
 anytree==2.8.0
 apscheduler
-aria2p
 asyncio
 beautifulsoup4
 cinemagoer
@@ -33,12 +31,9 @@ pymongo
 pyrofork==2.2.11
 python-dotenv
 python-magic
-qbittorrent-api
 requests
-speedtest-cli
 telegraph
 tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp
